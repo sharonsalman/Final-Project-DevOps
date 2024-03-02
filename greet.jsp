@@ -5,5 +5,6 @@
 </head>
 <body>
     <h2>Greetings, <%= request.getParameter("name") %>!</h2>
+    <p>Thank you for using the Simple JSP Web App.</p>
 </body>
 </html>
