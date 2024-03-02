@@ -50,7 +50,7 @@
         }
 
         button:hover {
-            background-color: FF9BD2;
+            background-color: #E6A4B4;
         }
     </style>
 </head>

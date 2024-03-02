@@ -1,21 +1,23 @@
-<%@ page contentType="text/html;charset=UTF-8" language="java" %>
+
 <html>
 <head>
     <title>Greeting Page</title>
     <style>
         body {
+            
             background-color: #F5EEE6;
             font-family: Arial, sans-serif;
             color: #333;
+            margin: 0;
+            padding: 0;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            align-self: center;
+            height: 100vh;
         }
 
         .container {
-            display: flex;
-            flex-direction: column;
-            width: 80%;
-            margin: auto;
-            text-align: center;
-            justify-content: center;
             background-color: #FFF8E3;
             padding: 20px;
             border-radius: 5px;
@@ -24,10 +26,12 @@
 
         h2 {
             color: #E6A4B4;
+            font-size: xx-large;
             margin-bottom: 20px;
         }
 
         p {
+            font-size: medium;
             color: #6c757d;
         }
     </style>
