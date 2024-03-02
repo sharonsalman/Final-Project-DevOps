@@ -50,7 +50,9 @@
         }
 
         button:hover {
-            background-color: #E6A4B4;
+            color: rgba(255, 255, 255, 1);
+          background-color: #E6A4B4;
+          box-shadow: 0 5px 15px rgba(218, 176, 195, 0.801);
         }
     </style>
 </head>

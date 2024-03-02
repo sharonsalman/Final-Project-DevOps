@@ -39,7 +39,7 @@
 <body>
     <div class="container">
         <h2>Greetings, <%= request.getParameter("name") %>!</h2>
-        <p>Thank you for using our web App.</p>
+        <p>Thank you for using our app.</p>
     </div>
 </body>
 </html>
